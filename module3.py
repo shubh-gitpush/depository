@@ -8,7 +8,7 @@
 # Copyright:   (c) Lenovo 2023
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
-#calculator
+#calculator it is on git
 first_number=int(input("enter any number"))
 operator=(input("ener the operation(+,-,*,%,/):"))
 second_number=int(input("enter any number"))
